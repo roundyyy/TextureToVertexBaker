@@ -46,7 +46,7 @@ Feel free to use your own shaders - just make sure they support vertex colors.
 Download the `.unitypackage` from [Releases](../../releases) and import into your project.
 
 ### Option 2: Clone Repository
-Clone this repository and copy the `TextureToVertexBaker` folder into your project's `Assets/Editor/` directory.
+Clone this repository and copy the `TextureToVertexBaker` folder into your project's `Assets/` directory.
 
 ## How to Use
 
