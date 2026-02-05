@@ -12,13 +12,13 @@
   <em>Usage Example</em>
 </p>
 
-A Unity Editor tool that converts texture-based meshes to vertex color meshes. Perfect for **mobile** and **VR** development where performance is critical - your entire scene can use a single shader and single material.
+A Unity Editor tool that converts texture-based meshes to vertex color meshes. Perfect for **mobile** and **VR** development where performance is critical - your entire scene can use a single shader and single material without single texture (except optional lightmap).
 
 ## Features
 
 - **Batch Processing** - Drag a parent GameObject to convert entire scene hierarchies, or process single objects
 - **Single Material Output** - All converted meshes share one material, reducing draw calls significantly
-- **Prefab Support** - Automatically handles prefab instances and nested prefabs
+- **Prefab Support** - Automatically handles prefab instances
 - **Lightmap Baking** - Bake lightmaps directly into vertex colors along with textures
 - **Automatic Mesh Read/Write Handling** - Detects and fixes mesh import settings automatically
 
@@ -67,6 +67,10 @@ Clone this repository and copy the `TextureToVertexBaker` folder into your proje
 
 - Unity 2019.4 or later
 - Works with Built-in, URP, and HDRP render pipelines
+
+## Early version. 
+
+Some bugs might occur 
 
 ## License
 
