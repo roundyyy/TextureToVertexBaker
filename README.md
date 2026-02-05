@@ -1,5 +1,14 @@
 # Texture to Vertex Baker
 
+<p align="center">
+  <img src="image1.jpg" alt="Tool UI" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="image2.jpg" alt="Usage Example" width="45%"/>
+</p>
+<p align="center">
+  <em>Tool UI</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Usage Example</em>
+</p>
+
 A Unity Editor tool that converts texture-based meshes to vertex color meshes. Perfect for **mobile** and **VR** development where performance is critical - your entire scene can use a single shader and single material.
 
 ## Features
